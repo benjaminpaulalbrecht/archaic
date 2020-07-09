@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+body
+{
+    text-align: left;
+}
+
+p
+{
+	font-size: 14px;
+} 
+
+#arch_sidebar
+{
+    border-left: 1px solid black;
+} 
+
+.title
+{
+    font-size: 11pt;
+    font-family: verdana;
+    font-weight: bold;
+    
+}
+
+.shadowEffect
+{
+    box-shadow: 3px 3px 10px 2px #a9a1a1;
+}
